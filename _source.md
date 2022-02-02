@@ -7,7 +7,7 @@
   |
   <a href="https://www.getrevue.co/profile/ploomber">Newsletter</a>
   |
-  <a href="https://ploomber.readthedocs.io/">Docs</a>
+  <a href="https://docs.ploomber.io/">Docs</a>
   |
   <a href="https://twitter.com/intent/user?screen_name=ploomber">Twitter</a>
   |
@@ -20,7 +20,7 @@
 
 This repository contains sample pipelines developed using [Ploomber](https://github.com/ploomber/ploomber).
 
-**Note:** We recommend you to go through the [first tutorial](https://ploomber.readthedocs.io/en/latest/get-started/spec-api-python.html) to learn the basics of Ploomber.
+**Note:** We recommend you to go through the [first tutorial](https://docs.ploomber.io/en/latest/get-started/spec-api-python.html) to learn the basics of Ploomber.
 
 ## Running examples
 
